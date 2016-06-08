@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:51:48.610528
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:44
 #+TITLE: 六即義
 #+PROPERTY: CBETA_ID X56n0941
 #+PROPERTY: ID KR6d0219
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 56, No. 941
 #+PROPERTY: VOL 56
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0219_X_001-0671a> 
 #+PROPERTY: JUAN 1
-No.941¶
-
- 六即義¶
+No. 941¶
+六即義¶
 天台僧　行滿　於國中述¶
 
 夫論即者名體不二今依天台大師五味判經四教¶
@@ -48,7 +47,7 @@ No.941¶
 五分真即者亦云分證¶
 相似位進入銅輪法名為開佛知見證初位初一品¶
 無明能八相成道從真起應百佛世界教化眾生大¶
-經云是人即於其家掘出金藏女人見已心生歡喜¶
+經云是人即於其家掘出金藏女人見巳心生歡喜¶
 即其義也。
 
 六究竟即者四十二位究竟圓極初阿後¶
